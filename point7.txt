@@ -1,1 +1,3 @@
-vehicle : auto
+ 
+vehicle : motor cycle
+
