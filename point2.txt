@@ -1,3 +1,5 @@
  type : load vehicle
  cc: 220cc
- 
+  
+  type : auto 
+  cc : 155cc
