@@ -1,0 +1,2 @@
+type : yamaha
+cc : 155cc
